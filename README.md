@@ -2,7 +2,7 @@
 
 <h3>/GetAllUser</h3>
 Output
-´´´
+```
   {
     "firstname": "Grogert",
     "lastname": "Johan",
