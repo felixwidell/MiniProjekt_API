@@ -1,3 +1,4 @@
+<div style:"border:1px solid black">
 <h2>GET Endpoints</h2>
 
 <h3>/GetAllUser</h3>
