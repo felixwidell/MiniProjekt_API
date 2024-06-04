@@ -2,6 +2,7 @@
 <h2>GET Endpoints</h2>
 
 <h3>/GetAllUser</h3>
+Get all Users
 Output
 
 ```json
@@ -20,6 +21,7 @@ Output
 ```
 
 <h3>/GetUserInterests/{id}</h3>
+Get specific user interests
 Output
 
 ```json
@@ -41,6 +43,7 @@ Output
 ```
 
 <h3>/GetUserLinks/{id}</h3>
+Get specific user links
 Output
 
 ```json
@@ -57,6 +60,7 @@ Output
 ```
 
 <h3>/AddPersonToInterest/{userId}/{interestId}</h3>
+Adds connection between user to interest
 Input
 
 ```json
@@ -68,6 +72,7 @@ Input
 ```
 
 <h3>/AddLinkToInterest/{interestId}/{linkUrl}</h3>
+Adds a link to existing interest
 Input
 
 ```json
